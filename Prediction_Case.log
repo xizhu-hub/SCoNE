@@ -1,0 +1,2545 @@
+
+🔍 Sample 1 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Vi                  → 1.0000
+bri                  → 1.0000
+o                    → 1.0000
+▁case                → 0.9999
+i                    → 1.0000
+▁@                   → 0.9999
+@                    → 1.0000
+▁Vi                  → 0.9999
+bri                  → 1.0000
+o                    → 1.0000
+<extra_id_1>         → 0.9105
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁                    → 0.5753
+rind                 → 1.0000
+▁of                  → 1.0000
+▁red                 → 1.0000
+-                    → 1.0000
+s                    → 1.0000
+m                    → 1.0000
+ear                  → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+<extra_id_4>         → 0.9461
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Vibrio casei @@ Vibrio <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> rind of red-smear cheeses <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Vibrio @@ Vibrio casei <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> red-smear cheeses @@ rind of red-smear cheeses <extra_id_4> no entity
+
+🔍 Sample 2 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Al                  → 0.9917
+cal                  → 1.0000
+igne                 → 0.9866
+s                    → 1.0000
+▁                    → 1.0000
+f                    → 1.0000
+a                    → 1.0000
+e                    → 1.0000
+cali                 → 1.0000
+s                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Pro                 → 0.9994
+t                    → 1.0000
+e                    → 1.0000
+us                   → 1.0000
+▁vulgar              → 1.0000
+is                   → 1.0000
+<extra_id_1>         → 1.0000
+▁Gram                → 1.0000
+-                    → 1.0000
+negative             → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁farmhouse           → 0.9998
+▁cheese              → 1.0000
+s                    → 1.0000
+<extra_id_4>         → 0.9551
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Alcalignes faecalis @@ Proteus vulgaris <extra_id_1> Gram-negative <extra_id_2> no entity <extra_id_3> farmhouse cheeses <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Alcalignes faecalis @@ Proteus vulgaris <extra_id_1> Gram-negative <extra_id_2> no entity <extra_id_3> farmhouse cheeses <extra_id_4> no entity
+
+🔍 Sample 3 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Lac                 → 0.8344
+to                   → 1.0000
+c                    → 0.9994
+occ                  → 1.0000
+us                   → 1.0000
+▁lac                 → 1.0000
+t                    → 1.0000
+is                   → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+s                    → 1.0000
+p                    → 0.9999
+.                    → 1.0000
+▁cre                 → 1.0000
+mor                  → 1.0000
+is                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁                    → 0.9996
+Psych                → 1.0000
+r                    → 1.0000
+o                    → 1.0000
+bacter               → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁L                   → 0.9998
+.                    → 1.0000
+▁lac                 → 1.0000
+t                    → 1.0000
+is                   → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+s                    → 1.0000
+p                    → 0.9999
+.                    → 1.0000
+▁cre                 → 1.0000
+mor                  → 1.0000
+is                   → 1.0000
+▁@                   → 0.9999
+@                    → 1.0000
+▁C                   → 0.9998
+.                    → 1.0000
+▁case                → 0.9998
+i                    → 0.9997
+<extra_id_1>         → 0.8548
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁past                → 0.9990
+eur                  → 1.0000
+ized                 → 1.0000
+▁milk                → 1.0000
+▁cheese              → 0.7137
+▁@                   → 0.9232
+@                    → 1.0000
+▁raw                 → 0.9632
+▁milk                → 1.0000
+▁cheese              → 0.9801
+▁@                   → 0.5868
+@                    → 1.0000
+▁past                → 0.7760
+eur                  → 1.0000
+ized                 → 1.0000
+▁milk                → 1.0000
+▁@                   → 0.9904
+@                    → 1.0000
+▁raw                 → 0.9895
+▁milk                → 1.0000
+▁cheese              → 0.9984
+▁                    → 0.9959
+rind                 → 1.0000
+s                    → 1.0000
+▁@                   → 0.7887
+@                    → 1.0000
+▁raw                 → 0.7402
+▁milk                → 1.0000
+<extra_id_4>         → 0.5739
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Lactococcus lactis ssp. cremoris @@ Psychrobacter spp. @@ L. lactis ssp. cremoris @@ C. casei <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> pasteurized milk cheese @@ raw milk cheese @@ pasteurized milk @@ raw milk cheese rinds @@ raw milk <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> L. lactis ssp. cremoris @@ Lactococcus lactis ssp. cremoris @@ C. casei @@ Psychrobacter spp. @@ C. casei <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> pasteurized milk cheese @@ pasteurized milk @@ raw milk @@ raw milk cheese rinds @@ pasteurized milk cheese rinds @@ raw milk cheese <extra_id_4> no entity
+
+🔍 Sample 4 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Enter               → 0.9236
+o                    → 1.0000
+c                    → 0.9999
+occ                  → 1.0000
+us                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Micro               → 0.5736
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁@                   → 0.9996
+@                    → 1.0000
+▁Bre                 → 0.5958
+vi                   → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁                    → 0.6815
+Psych                → 1.0000
+r                    → 1.0000
+o                    → 1.0000
+bacter               → 1.0000
+<extra_id_1>         → 0.9955
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁surface             → 0.9987
+▁of                  → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+<extra_id_4>         → 0.5782
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Enterococcus @@ Micrococcus @@ Brevibacterium @@ Psychrobacter <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> surface of cheeses <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Psychrobacter @@ Micrococcus @@ Brevibacterium @@ Enterococcus @@ Staphylococcus <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> surface of cheeses @@ cheeses <extra_id_4> no entity
+
+🔍 Sample 5 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Hal                 → 1.0000
+o                    → 1.0000
+mon                  → 1.0000
+a                    → 1.0000
+s                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 0.9999
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cheese              → 0.9996
+▁@                   → 0.6760
+@                    → 1.0000
+▁cheese              → 0.8729
+▁surfaces            → 0.9568
+▁@                   → 1.0000
+@                    → 1.0000
+▁marine              → 0.9926
+▁environments        → 0.9808
+<extra_id_4>         → 0.9984
+▁indicator           → 0.9894
+▁for                 → 0.8693
+▁                    → 1.0000
+h                    → 1.0000
+y                    → 1.0000
+gie                  → 1.0000
+nic                  → 1.0000
+▁deficiencies        → 1.0000
+▁@                   → 0.9907
+@                    → 1.0000
+▁dry                 → 0.9907
+▁salt                → 0.9998
+ing                  → 1.0000
+▁@                   → 0.8904
+@                    → 1.0000
+▁washing             → 0.9997
+</s>                 → 0.9994
+pred_text:    <pad> <extra_id_0> Halomonas <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese @@ cheese surfaces @@ marine environments <extra_id_4> indicator for hygienic deficiencies @@ dry salting @@ washing</s>
+Ground Truth: <extra_id_0> Halomonas <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese 
+surfaces @@ sea @@ marine environments @@ sea salt @@ cheese producing facilities <extra_id_4> dry salting @@ washing
+
+🔍 Sample 6 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁old                 → 0.9842
+▁cheese              → 1.0000
+s                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁young               → 0.9997
+▁cheese              → 0.9999
+s                    → 1.0000
+<extra_id_4>         → 0.9993
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> old cheeses @@ young cheeses <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> old cheeses @@ young cheeses <extra_id_4> no entity
+
+🔍 Sample 7 Token Confidence:
+<extra_id_0>         → 1.0000
+▁cre                 → 1.0000
+mor                  → 1.0000
+is                   → 1.0000
+▁B                   → 1.0000
+69                   → 1.0000
+7                    → 1.0000
+<extra_id_1>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁3-                  → 0.9999
+methyl               → 1.0000
+but                  → 1.0000
+an                   → 1.0000
+al                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁                    → 0.7037
+hydroxy              → 1.0000
+▁acid                → 0.9992
+<extra_id_3>         → 0.9995
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁trans               → 0.9999
+a                    → 1.0000
+min                  → 1.0000
+a                    → 1.0000
+s                    → 1.0000
+e                    → 1.0000
+▁activity            → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> cremoris B697 <extra_id_1> no entity <extra_id_2> 3-methylbutanal @@ hydroxy acid <extra_id_3> no entity <extra_id_4> transaminase activity</s>
+Ground Truth: <extra_id_0> cremoris B697 <extra_id_1> no entity <extra_id_2> 3-methylbutanal <extra_id_3> no entity <extra_id_4> hydroxy acid dehydrogenase activity @@ transaminase activity
+
+🔍 Sample 8 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Cor                 → 1.0000
+y                    → 1.0000
+n                    → 1.0000
+e                    → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+<extra_id_1>         → 0.8311
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 0.9995
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁B                   → 0.9344
+rine                 → 1.0000
+<extra_id_4>         → 0.9996
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Corynebacterium <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> Brine <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Corynebacterium <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> Brine @@ personnel @@ equipment <extra_id_4> no entity
+
+🔍 Sample 9 Token Confidence:
+<extra_id_0>         → 1.0000
+▁pro                 → 0.9998
+pion                 → 1.0000
+i                    → 1.0000
+bacter               → 1.0000
+i                    → 1.0000
+a                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Geo                 → 0.9999
+tric                 → 1.0000
+hum                  → 1.0000
+▁candid              → 1.0000
+um                   → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁PLA                 → 1.0000
+<extra_id_3>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> propionibacteria @@ Geotrichum candidum <extra_id_1> no entity <extra_id_2> PLA <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> propionibacteria @@ Geotrichum candidum <extra_id_1> no entity <extra_id_2> PLA <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 10 Token Confidence:
+<extra_id_0>         → 1.0000
+▁P                   → 1.0000
+.                    → 1.0000
+▁cele                → 1.0000
+r                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cheese              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> P. celer <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> P. celer <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese <extra_id_4> no entity
+
+🔍 Sample 11 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Lac                 → 0.4717
+to                   → 1.0000
+bac                  → 0.9567
+ill                  → 1.0000
+us                   → 1.0000
+▁                    → 0.4726
+he                   → 1.0000
+l                    → 1.0000
+veti                 → 1.0000
+cu                   → 1.0000
+s                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Str                 → 0.9515
+ept                  → 1.0000
+o                    → 1.0000
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁thermo              → 1.0000
+phil                 → 1.0000
+us                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Enter               → 0.9955
+o                    → 1.0000
+c                    → 0.9997
+occ                  → 1.0000
+us                   → 1.0000
+▁                    → 0.9959
+f                    → 1.0000
+a                    → 1.0000
+e                    → 1.0000
+cali                 → 0.9960
+s                    → 0.9999
+▁@                   → 0.9994
+@                    → 1.0000
+▁Lac                 → 0.8176
+to                   → 1.0000
+bac                  → 0.9884
+ill                  → 1.0000
+us                   → 1.0000
+▁de                  → 0.7424
+l                    → 1.0000
+bru                  → 1.0000
+eck                  → 1.0000
+i                    → 1.0000
+i                    → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+s                    → 1.0000
+p                    → 0.9999
+.                    → 1.0000
+▁bulg                → 1.0000
+a                    → 1.0000
+ric                  → 1.0000
+us                   → 1.0000
+▁@                   → 0.9793
+@                    → 1.0000
+▁Enter               → 0.9944
+o                    → 0.9999
+c                    → 0.9996
+occ                  → 1.0000
+us                   → 1.0000
+▁                    → 0.6703
+f                    → 0.9999
+a                    → 1.0000
+e                    → 1.0000
+c                    → 0.6537
+ium                  → 1.0000
+▁@                   → 0.9999
+@                    → 1.0000
+▁Enter               → 0.8686
+o                    → 0.9999
+c                    → 0.9923
+occ                  → 1.0000
+us                   → 1.0000
+▁du                  → 0.9962
+ran                  → 1.0000
+s                    → 1.0000
+<extra_id_1>         → 0.8709
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁                    → 0.9996
+lactic               → 1.0000
+▁acid                → 1.0000
+<extra_id_3>         → 0.9997
+▁traditional         → 0.9987
+▁Italian             → 0.9999
+▁cheese              → 1.0000
+s                    → 1.0000
+<extra_id_4>         → 0.9997
+▁reduction           → 0.9947
+▁activity            → 1.0000
+</s>                 → 0.9999
+pred_text:    <pad> <extra_id_0> Lactobacillus helveticus @@ Streptococcus thermophilus @@ Enterococcus faecalis @@ Lactobacillus delbrueckii ssp. bulgaricus @@ Enterococcus faecium @@ Enterococcus durans <extra_id_1> no entity <extra_id_2> lactic acid <extra_id_3> traditional Italian cheeses <extra_id_4> reduction activity</s>
+Ground Truth: <extra_id_0> Lactobacillus helveticus @@ Pediococcus pentosaceus @@ Streptococcus thermophilus @@ Lactococcus lactis ssp. lactis @@ Enterococcus durans @@ Lactobacillus paracasei ssp. paracasei @@ Lactobacillus plantarum @@ Lactobacillus delbrueckii ssp. bulgaricus @@ Enterococcus faecalis @@ Enterococcus faecium <extra_id_1> no entity <extra_id_2> lactic acid <extra_id_3> traditional Italian cheeses <extra_id_4> reduction activity
+
+🔍 Sample 12 Token Confidence:
+<extra_id_0>         → 1.0000
+▁L                   → 1.0000
+.                    → 1.0000
+▁de                  → 0.9645
+l                    → 1.0000
+bru                  → 1.0000
+eck                  → 1.0000
+i                    → 1.0000
+i                    → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+s                    → 1.0000
+p                    → 1.0000
+.                    → 1.0000
+▁bulg                → 1.0000
+a                    → 1.0000
+ric                  → 1.0000
+us                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁lac                 → 0.9999
+to                   → 1.0000
+bac                  → 1.0000
+ill                  → 1.0000
+i                    → 0.9991
+▁@                   → 0.9999
+@                    → 1.0000
+▁L                   → 1.0000
+.                    → 1.0000
+▁                    → 1.0000
+he                   → 1.0000
+l                    → 1.0000
+veti                 → 1.0000
+cu                   → 1.0000
+s                    → 1.0000
+<extra_id_1>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁                    → 0.9823
+reducing             → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> L. delbrueckii ssp. bulgaricus @@ lactobacilli @@ L. helveticus <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> reducing</s>
+Ground Truth: <extra_id_0> lactobacilli @@ L. delbrueckii ssp. bulgaricus @@ L. helveticus <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> lowest reducing
+
+🔍 Sample 13 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Klu                 → 1.0000
+y                    → 1.0000
+ve                   → 1.0000
+rom                  → 1.0000
+y                    → 1.0000
+ces                  → 1.0000
+▁mar                 → 1.0000
+x                    → 1.0000
+ianu                 → 1.0000
+s                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Deb                 → 0.9978
+ary                  → 1.0000
+o                    → 1.0000
+my                   → 1.0000
+ces                  → 1.0000
+▁                    → 1.0000
+han                  → 1.0000
+s                    → 1.0000
+enii                 → 1.0000
+<extra_id_1>         → 0.9832
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cheese              → 0.9963
+▁from                → 1.0000
+▁dairy               → 1.0000
+<extra_id_4>         → 0.9996
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Kluyveromyces marxianus @@ Debaryomyces hansenii <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese from dairy <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Geotrichum spp. @@ Kluyveromyces marxianus @@ Debaryomyces hansenii <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese from dairy <extra_id_4> no entity
+
+🔍 Sample 14 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Vi                  → 0.5063
+bri                  → 1.0000
+o                    → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁                    → 0.9989
+Psych                → 1.0000
+r                    → 1.0000
+o                    → 1.0000
+bacter               → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+▁@                   → 0.9995
+@                    → 1.0000
+▁P                   → 0.9998
+s                    → 1.0000
+e                    → 1.0000
+u                    → 1.0000
+d                    → 1.0000
+o                    → 1.0000
+alter                → 1.0000
+o                    → 1.0000
+mon                  → 1.0000
+a                    → 1.0000
+s                    → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+<extra_id_1>         → 0.9998
+▁no                  → 0.9417
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁past                → 1.0000
+eur                  → 1.0000
+ized                 → 1.0000
+▁milk                → 1.0000
+▁cheese              → 0.9180
+▁                    → 0.7683
+rind                 → 1.0000
+▁@                   → 0.9994
+@                    → 1.0000
+▁past                → 0.9991
+eur                  → 1.0000
+ized                 → 1.0000
+▁milk                → 1.0000
+<extra_id_4>         → 0.9943
+▁no                  → 0.9999
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Vibrio spp. @@ Psychrobacter spp. @@ Pseudoalteromonas spp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> pasteurized milk cheese rind @@ pasteurized milk <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Pseudoalteromonas spp. @@ Vibrio spp. @@ Psychrobacter spp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> pasteurized milk @@ pasteurized milk cheese @@ pasteurized milk cheese rind <extra_id_4> no entity
+
+🔍 Sample 15 Token Confidence:
+<extra_id_0>         → 1.0000
+▁L                   → 0.9151
+.                    → 1.0000
+▁plant               → 0.6703
+a                    → 1.0000
+rum                  → 1.0000
+▁2                   → 1.0000
+99                   → 1.0000
+v                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁L                   → 0.9820
+.                    → 1.0000
+▁                    → 1.0000
+r                    → 1.0000
+ham                  → 1.0000
+nos                  → 1.0000
+us                   → 1.0000
+▁LG                  → 1.0000
+G                    → 1.0000
+▁@                   → 0.9999
+@                    → 1.0000
+▁P                   → 1.0000
+.                    → 1.0000
+▁nord                → 1.0000
+i                    → 1.0000
+cum                  → 1.0000
+<extra_id_1>         → 0.9998
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁                    → 0.9972
+lactic               → 0.6137
+▁acids               → 0.9856
+▁@                   → 0.9981
+@                    → 1.0000
+▁                    → 0.9990
+ace                  → 0.9805
+tic                  → 1.0000
+▁acids               → 0.9953
+<extra_id_3>         → 0.9977
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> L. plantarum 299v @@ L. rhamnosus LGG @@ P. nordicum <extra_id_1> no entity <extra_id_2> lactic acids @@ acetic acids <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> L. rhamnosus LGG @@ P. nordicum @@ L. plantarum 299v <extra_id_1> no entity <extra_id_2> lactic acids @@ acetic acids <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 16 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁high                → 0.9995
+▁reduction           → 1.0000
+▁activity            → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> high reduction activity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> high 
+reduction activity
+
+🔍 Sample 17 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Va                  → 1.0000
+go                   → 1.0000
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 0.9271
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁no                  → 0.9992
+▁entity              → 1.0000
+<extra_id_4>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Vagococcus spp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Vagococcus spp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 18 Token Confidence:
+<extra_id_0>         → 1.0000
+▁L                   → 0.9318
+.                    → 1.0000
+▁lac                 → 0.8908
+t                    → 0.9980
+is                   → 1.0000
+▁sub                 → 1.0000
+s                    → 1.0000
+p                    → 1.0000
+.                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Lac                 → 0.6909
+to                   → 1.0000
+bac                  → 1.0000
+ill                  → 1.0000
+us                   → 1.0000
+▁                    → 1.0000
+ke                   → 1.0000
+fir                  → 1.0000
+an                   → 0.9997
+of                   → 0.9996
+aci                  → 1.0000
+en                   → 1.0000
+s                    → 1.0000
+▁W                   → 0.9996
+T                    → 1.0000
+-2                   → 0.9990
+B                    → 0.9996
+▁@                   → 0.9998
+@                    → 1.0000
+▁L                   → 0.9989
+.                    → 1.0000
+▁                    → 1.0000
+r                    → 0.9999
+ham                  → 1.0000
+nos                  → 1.0000
+us                   → 1.0000
+▁R                   → 1.0000
+W                    → 1.0000
+-                    → 0.9984
+95                   → 0.9999
+95                   → 1.0000
+M                    → 1.0000
+<extra_id_1>         → 0.9986
+▁no                  → 0.9999
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁                    → 0.8761
+EPS                  → 1.0000
+<extra_id_3>         → 0.8113
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 0.5994
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> L. lactis subsp. @@ Lactobacillus kefiranofaciens WT-2B @@ L. rhamnosus RW-9595M <extra_id_1> no entity <extra_id_2> EPS <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> L. lactis subsp. @@ L. rhamnosus RW-9595M @@ Lactobacillus kefiranofaciens WT-2B <extra_id_1> no entity <extra_id_2> EPS <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 19 Token Confidence:
+<extra_id_0>         → 1.0000
+▁St                  → 1.0000
+a                    → 1.0000
+phy                  → 1.0000
+loc                  → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁                    → 1.0000
+e                    → 1.0000
+quo                  → 1.0000
+rum                  → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cheese              → 0.9997
+▁@                   → 0.9801
+@                    → 1.0000
+▁Case                → 0.9679
+r                    → 1.0000
+a                    → 1.0000
+<extra_id_4>         → 0.9989
+▁no                  → 0.9996
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Staphylococcus equorum <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese @@ Casera <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Staphylococcus equorum <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese @@ Casera <extra_id_4> no entity
+
+🔍 Sample 20 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 0.9997
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁Vitamin             → 0.9939
+▁B                   → 0.9999
+12                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁glucose             → 0.9939
+<extra_id_3>         → 0.6272
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 0.9946
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> Vitamin B12 @@ glucose <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> glucose @@ glucose @@ ATP @@ glycerol @@ glycerol @@ Vitamin B12 <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 21 Token Confidence:
+<extra_id_0>         → 1.0000
+▁H                   → 0.9999
+.                    → 1.0000
+▁al                  → 1.0000
+ve                   → 1.0000
+i                    → 1.0000
+<extra_id_1>         → 0.6630
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁di                  → 0.9296
+methyl               → 1.0000
+▁dis                 → 0.7010
+ul                   → 1.0000
+f                    → 1.0000
+ide                  → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁me                  → 0.6906
+than                 → 1.0000
+e                    → 1.0000
+thi                  → 1.0000
+o                    → 1.0000
+l                    → 1.0000
+▁@                   → 0.9997
+@                    → 1.0000
+▁di                  → 0.8642
+methyl               → 1.0000
+▁tri                 → 0.9996
+s                    → 0.9999
+ul                   → 1.0000
+f                    → 1.0000
+ide                  → 1.0000
+<extra_id_3>         → 0.9893
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁aroma               → 0.9937
+▁compounds           → 1.0000
+▁@                   → 0.9999
+@                    → 1.0000
+▁sulfur              → 0.9991
+▁compounds           → 1.0000
+</s>                 → 0.9998
+pred_text:    <pad> <extra_id_0> H. alvei <extra_id_1> no entity <extra_id_2> dimethyl disulfide @@ methanethiol @@ dimethyl trisulfide <extra_id_3> no entity <extra_id_4> aroma compounds @@ sulfur compounds</s>
+Ground Truth: <extra_id_0> H. alvei <extra_id_1> no entity <extra_id_2> DMDS @@ DMTS @@ dimethyl 
+disulfide @@ dimethyl trisulfide @@ methanethiol <extra_id_3> no entity <extra_id_4> aroma compounds @@ aroma compounds @@ sulfur compounds
+
+🔍 Sample 22 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Lac                 → 0.7833
+to                   → 1.0000
+c                    → 0.9998
+occ                  → 1.0000
+us                   → 1.0000
+▁lac                 → 1.0000
+t                    → 1.0000
+is                   → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+s                    → 1.0000
+p                    → 0.9999
+.                    → 1.0000
+▁cre                 → 1.0000
+mor                  → 1.0000
+is                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁                    → 0.9950
+Psych                → 1.0000
+r                    → 1.0000
+o                    → 1.0000
+bacter               → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+▁@                   → 0.9999
+@                    → 1.0000
+▁St                  → 0.9997
+a                    → 1.0000
+phy                  → 1.0000
+loc                  → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁                    → 1.0000
+e                    → 1.0000
+quo                  → 1.0000
+rum                  → 1.0000
+▁                    → 0.9826
+s                    → 1.0000
+s                    → 1.0000
+p                    → 0.9998
+.                    → 1.0000
+▁                    → 1.0000
+e                    → 1.0000
+quo                  → 1.0000
+rum                  → 1.0000
+<extra_id_1>         → 0.9995
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Lactococcus lactis ssp. cremoris @@ Psychrobacter spp. @@ Staphylococcus equorum ssp. equorum <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Staphylococcus equorum ssp. equorum @@ Psychrobacter spp. @@ Lactococcus lactis ssp. cremoris <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 23 Token Confidence:
+<extra_id_0>         → 1.0000
+▁B                   → 1.0000
+.                    → 1.0000
+▁linen               → 1.0000
+s                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> B. linens <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> B. linens <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 24 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Lac                 → 0.5977
+to                   → 1.0000
+bac                  → 0.8184
+ill                  → 1.0000
+us                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Str                 → 1.0000
+ept                  → 1.0000
+o                    → 1.0000
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Le                  → 0.9732
+u                    → 1.0000
+con                  → 1.0000
+ost                  → 1.0000
+o                    → 1.0000
+c                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Lac                 → 1.0000
+to                   → 1.0000
+c                    → 0.9990
+occ                  → 1.0000
+us                   → 1.0000
+<extra_id_1>         → 0.9989
+▁an                  → 0.9927
+a                    → 0.9999
+er                   → 1.0000
+o                    → 1.0000
+bic                  → 1.0000
+<extra_id_2>         → 0.9999
+▁                    → 0.9834
+hydroxy              → 1.0000
+▁acid                → 0.9975
+<extra_id_3>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁trans               → 0.9999
+a                    → 1.0000
+min                  → 1.0000
+a                    → 1.0000
+s                    → 1.0000
+e                    → 1.0000
+▁activity            → 1.0000
+</s>                 → 0.9999
+pred_text:    <pad> <extra_id_0> Lactobacillus @@ Streptococcus @@ Leuconostoc @@ Lactococcus <extra_id_1> anaerobic <extra_id_2> hydroxy acid <extra_id_3> no entity <extra_id_4> transaminase activity</s>
+Ground Truth: <extra_id_0> Lactobacillus @@ Leuconostoc @@ Lactococcus @@ Streptococcus <extra_id_1> anaerobic <extra_id_2> hydroxy acid <extra_id_3> no entity <extra_id_4> hydroxy acid dehydrogenase activity @@ transaminase activity
+
+🔍 Sample 25 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Va                  → 1.0000
+go                   → 1.0000
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁flu                 → 1.0000
+vi                   → 1.0000
+ali                  → 1.0000
+s                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁human               → 0.5155
+▁@                   → 0.9972
+@                    → 1.0000
+▁animal              → 0.9832
+▁sources             → 0.8027
+▁@                   → 0.9999
+@                    → 1.0000
+▁cheese              → 1.0000
+<extra_id_4>         → 0.9988
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Vagococcus fluvialis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> human @@ animal sources @@ cheese <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Vagococcus fluvialis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese @@ human @@ animal <extra_id_4> no entity
+
+🔍 Sample 26 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Cor                 → 0.9699
+y                    → 1.0000
+n                    → 1.0000
+e                    → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁am                  → 1.0000
+moni                 → 1.0000
+age                  → 1.0000
+nes                  → 1.0000
+▁B                   → 1.0000
+15                   → 1.0000
+06                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Lac                 → 1.0000
+to                   → 1.0000
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁lac                 → 1.0000
+t                    → 1.0000
+is                   → 1.0000
+▁B                   → 1.0000
+11                   → 1.0000
+57                   → 1.0000
+<extra_id_1>         → 0.9997
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁3-                  → 1.0000
+methyl               → 1.0000
+but                  → 1.0000
+an                   → 1.0000
+al                   → 0.8325
+▁@                   → 1.0000
+@                    → 1.0000
+▁3-                  → 1.0000
+methyl               → 1.0000
+but                  → 1.0000
+an                   → 0.9999
+o                    → 0.8365
+l                    → 1.0000
+<extra_id_3>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Corynebacterium ammoniagenes B1506 @@ Lactococcus lactis B1157 <extra_id_1> no entity <extra_id_2> 3-methylbutanal @@ 3-methylbutanol <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Corynebacterium ammoniagenes B1506 @@ Lactococcus lactis
+ B1157 <extra_id_1> no entity <extra_id_2> 3-methylbutanal @@ 3-methylbutanol <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 27 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Al                  → 1.0000
+kal                  → 1.0000
+i                    → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁                    → 1.0000
+g                    → 1.0000
+il                   → 1.0000
+v                    → 1.0000
+um                   → 1.0000
+<extra_id_1>         → 0.9997
+▁al                  → 0.9985
+kal                  → 0.9998
+i                    → 1.0000
+phil                 → 0.9993
+ic                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁                    → 1.0000
+hal                  → 1.0000
+ophil                → 1.0000
+ic                   → 1.0000
+<extra_id_2>         → 0.9999
+▁                    → 0.9987
+lactic               → 1.0000
+▁acid                → 1.0000
+<extra_id_3>         → 1.0000
+▁European            → 0.8999
+▁soft                → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁semi                → 1.0000
+-                    → 1.0000
+hard                 → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+<extra_id_4>         → 0.9998
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Alkalibacterium gilvum <extra_id_1> alkaliphilic @@ halophilic <extra_id_2> lactic acid <extra_id_3> European soft cheeses @@ semi-hard cheeses <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Alkalibacterium gilvum <extra_id_1> alkaliphilic @@ halophilic <extra_id_2> lactic acid <extra_id_3> European soft and semi-hard cheeses <extra_id_4> no entity
+
+🔍 Sample 28 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Cor                 → 1.0000
+y                    → 1.0000
+n                    → 1.0000
+e                    → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁surface             → 0.9968
+-                    → 1.0000
+rip                  → 1.0000
+ened                 → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+▁@                   → 0.9992
+@                    → 1.0000
+▁                    → 0.9743
+rip                  → 1.0000
+en                   → 0.9712
+ing                  → 1.0000
+▁cultures            → 1.0000
+<extra_id_4>         → 0.9998
+▁                    → 0.6315
+rip                  → 1.0000
+en                   → 0.9988
+ing                  → 1.0000
+</s>                 → 0.9851
+pred_text:    <pad> <extra_id_0> Corynebacterium spp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> surface-ripened cheeses @@ ripening cultures <extra_id_4> ripening</s>
+Ground Truth: <extra_id_0> Corynebacterium spp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> surface-ripened cheeses @@ ripening cultures <extra_id_4> ripening
+
+🔍 Sample 29 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 0.8123
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁Danish              → 0.9993
+▁surface             → 1.0000
+-                    → 1.0000
+rip                  → 1.0000
+ened                 → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁farmhouse           → 0.9987
+s                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁industrial          → 0.9996
+▁dairy               → 1.0000
+▁@                   → 0.5264
+@                    → 1.0000
+▁farmhouse           → 0.8654
+s                    → 1.0000
+<extra_id_4>         → 0.9999
+▁no                  → 0.9998
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> Danish surface-ripened cheeses @@ farmhouses @@ industrial dairy @@ farmhouses <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> industrial dairy @@ Danish surface-ripened cheeses @@ farmhouses <extra_id_4> no entity
+
+🔍 Sample 30 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 0.9999
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁cor                 → 1.0000
+y                    → 1.0000
+n                    → 1.0000
+e                    → 1.0000
+form                 → 1.0000
+s                    → 0.9999
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁                    → 1.0000
+VB                   → 1.0000
+▁cheese              → 1.0000
+▁@                   → 0.7037
+@                    → 1.0000
+▁cheese              → 0.8397
+▁                    → 0.9959
+rind                 → 1.0000
+s                    → 1.0000
+<extra_id_4>         → 0.9729
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> coryneforms <extra_id_2> no entity <extra_id_3> VB cheese @@ cheese rinds <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> VB cheese rinds @@ VB cheese <extra_id_4> no entity
+
+🔍 Sample 31 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Lac                 → 0.9029
+to                   → 1.0000
+c                    → 0.9994
+occ                  → 1.0000
+us                   → 1.0000
+▁lac                 → 1.0000
+t                    → 1.0000
+is                   → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+s                    → 1.0000
+p                    → 0.9999
+.                    → 1.0000
+▁cre                 → 1.0000
+mor                  → 1.0000
+is                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁St                  → 0.8837
+a                    → 1.0000
+phy                  → 1.0000
+loc                  → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁                    → 1.0000
+e                    → 1.0000
+quo                  → 1.0000
+rum                  → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Cor                 → 0.9999
+y                    → 1.0000
+n                    → 1.0000
+e                    → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁case                → 1.0000
+i                    → 0.9999
+▁@                   → 0.9794
+@                    → 1.0000
+▁                    → 0.9754
+Psych                → 1.0000
+r                    → 1.0000
+o                    → 1.0000
+bacter               → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+▁@                   → 0.9871
+@                    → 1.0000
+▁Va                  → 0.9815
+go                   → 1.0000
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁salmon              → 1.0000
+in                   → 1.0000
+a                    → 1.0000
+rum                  → 1.0000
+▁@                   → 0.9505
+@                    → 1.0000
+▁                    → 0.9952
+Psych                → 1.0000
+r                    → 1.0000
+o                    → 1.0000
+bacter               → 1.0000
+▁                    → 0.9999
+s                    → 0.9999
+pp                   → 1.0000
+.                    → 1.0000
+<extra_id_1>         → 0.9983
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁raw                 → 0.7365
+▁milk                → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁past                → 0.9212
+eur                  → 1.0000
+ized                 → 1.0000
+▁cheese              → 0.9958
+▁@                   → 0.9677
+@                    → 1.0000
+▁cheese              → 0.8593
+▁                    → 0.6858
+rind                 → 1.0000
+▁@                   → 0.9974
+@                    → 1.0000
+▁raw                 → 0.9673
+▁milk                → 1.0000
+<extra_id_4>         → 0.8581
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Lactococcus lactis ssp. cremoris @@ Staphylococcus equorum @@ Corynebacterium casei @@ Psychrobacter spp. @@ Vagococcus salmoninarum @@ Psychrobacter spp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> raw milk @@ pasteurized cheese @@ cheese rind @@ raw milk <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Lactococcus lactis ssp. cremoris @@ Psychrobacter spp. @@ Vagococcus salmoninarum @@ Staphylococcus equorum @@ Corynebacterium casei <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> raw milk cheese rind @@ pasteurized cheese rind @@ cheese <extra_id_4> no entity
+
+🔍 Sample 32 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Ad                  → 1.0000
+ven                  → 1.0000
+ella                 → 1.0000
+▁                    → 1.0000
+k                    → 1.0000
+ash                  → 1.0000
+mir                  → 1.0000
+en                   → 1.0000
+s                    → 1.0000
+is                   → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁                    → 1.0000
+VB                   → 1.0000
+▁cheese              → 1.0000
+▁                    → 0.9370
+rind                 → 1.0000
+s                    → 1.0000
+▁@                   → 0.9812
+@                    → 1.0000
+▁cheese              → 0.9885
+<extra_id_4>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Advenella kashmirensis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> VB cheese rinds @@ cheese <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Advenella kashmirensis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> VB cheese @@ VB cheese rinds <extra_id_4> no entity
+
+🔍 Sample 33 Token Confidence:
+<extra_id_0>         → 1.0000
+▁L                   → 1.0000
+b                    → 1.0000
+.                    → 1.0000
+▁para                → 1.0000
+case                 → 1.0000
+i                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cheese              → 0.6284
+▁from                → 1.0000
+▁the                 → 1.0000
+▁industrial          → 1.0000
+▁dairy               → 1.0000
+<extra_id_4>         → 0.9998
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Lb. paracasei <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese from the industrial dairy <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Lb. paracasei <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> industrial dairy @@ cheese from the industrial dairy <extra_id_4> no entity
+
+🔍 Sample 34 Token Confidence:
+<extra_id_0>         → 1.0000
+▁H                   → 1.0000
+.                    → 1.0000
+▁al                  → 1.0000
+ve                   → 1.0000
+i                    → 1.0000
+▁@                   → 0.9897
+@                    → 1.0000
+▁S                   → 1.0000
+TEC                  → 1.0000
+▁O                   → 1.0000
+26                   → 0.9999
+:                    → 1.0000
+H                    → 1.0000
+11                   → 1.0000
+<extra_id_1>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁un                  → 0.9998
+cooked               → 1.0000
+▁                    → 1.0000
+pressed              → 1.0000
+▁model               → 1.0000
+▁cheese              → 1.0000
+<extra_id_4>         → 0.9999
+▁S                   → 0.9999
+TEC                  → 1.0000
+</s>                 → 0.8891
+pred_text:    <pad> <extra_id_0> H. alvei @@ STEC O26:H11 <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> uncooked pressed model cheese <extra_id_4> STEC</s>
+Ground Truth: <extra_id_0> O26:H11 @@ H. alvei <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> uncooked pressed model cheese <extra_id_4> STEC @@ uncooked pressed model
+
+🔍 Sample 35 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁salt                → 1.0000
+-                    → 1.0000
+tolerant             → 1.0000
+<extra_id_2>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁dairy               → 1.0000
+▁products            → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> salt-tolerant <extra_id_2> no entity <extra_id_3> dairy products <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> salt-tolerant <extra_id_2> no entity <extra_id_3> dairy products <extra_id_4> no entity
+
+🔍 Sample 36 Token Confidence:
+<extra_id_0>         → 1.0000
+▁M                   → 1.0000
+.                    → 1.0000
+▁                    → 1.0000
+psych                → 1.0000
+rot                  → 0.9999
+o                    → 1.0000
+ler                  → 1.0000
+ans                  → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁sea                 → 0.8506
+▁salt                → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+▁from                → 1.0000
+▁the                 → 1.0000
+▁marine              → 1.0000
+▁environments        → 1.0000
+▁@                   → 0.9965
+@                    → 1.0000
+▁marine              → 0.7509
+▁environments        → 0.4659
+<extra_id_4>         → 0.9987
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> M. psychrotolerans <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> sea salt @@ cheeses from the marine environments @@ marine environments <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> M. psychrotolerans <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> marine environments @@ cheeses @@ sea 
+salt <extra_id_4> no entity
+
+🔍 Sample 37 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 0.9999
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 0.9999
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cheese              → 0.9954
+s                    → 1.0000
+<extra_id_4>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheeses <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheeses <extra_id_4> no entity
+
+🔍 Sample 38 Token Confidence:
+<extra_id_0>         → 1.0000
+▁A                   → 0.9999
+.                    → 1.0000
+▁                    → 1.0000
+k                    → 1.0000
+ash                  → 1.0000
+mir                  → 1.0000
+en                   → 1.0000
+s                    → 1.0000
+is                   → 1.0000
+<extra_id_1>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁                    → 0.9961
+rip                  → 1.0000
+en                   → 1.0000
+ing                  → 1.0000
+▁cellar              → 1.0000
+▁C                   → 0.9622
+2                    → 0.9991
+▁@                   → 1.0000
+@                    → 1.0000
+▁short               → 0.9999
+-                    → 1.0000
+rip                  → 1.0000
+ened                 → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+▁@                   → 0.9397
+@                    → 1.0000
+▁                    → 0.9648
+rip                  → 1.0000
+en                   → 1.0000
+ing                  → 1.0000
+▁cellar              → 1.0000
+<extra_id_4>         → 0.7326
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> A. kashmirensis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> ripening cellar C2 @@ short-ripened cheeses @@ ripening cellar <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> A. kashmirensis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> short-ripened cheeses of ripening cellar C2 @@ Facility C @@ ripening cellar C2 <extra_id_4> no entity
+
+🔍 Sample 39 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Str                 → 0.9999
+ept                  → 0.9834
+o                    → 1.0000
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁thermo              → 1.0000
+phil                 → 1.0000
+us                   → 1.0000
+<extra_id_1>         → 0.6477
+▁thermo              → 0.9794
+phil                 → 0.9999
+ic                   → 1.0000
+<extra_id_2>         → 0.9740
+▁                    → 0.9831
+lactic               → 1.0000
+▁acid                → 0.9999
+<extra_id_3>         → 0.9998
+▁raw                 → 0.9928
+▁milk                → 1.0000
+▁cheese              → 0.7199
+▁from                → 0.9999
+▁dairy               → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁starter             → 0.6192
+▁culture             → 1.0000
+▁@                   → 0.9999
+@                    → 1.0000
+▁raw                 → 0.9970
+▁milk                → 1.0000
+▁@                   → 0.8876
+@                    → 1.0000
+▁dairy               → 0.9838
+<extra_id_4>         → 0.5114
+▁starter             → 1.0000
+</s>                 → 0.9981
+pred_text:    <pad> <extra_id_0> Streptococcus thermophilus <extra_id_1> thermophilic <extra_id_2> lactic acid <extra_id_3> raw milk cheese from dairy @@ starter culture @@ raw milk @@ dairy <extra_id_4> starter</s>
+Ground Truth: <extra_id_0> Streptococcus thermophilus @@ Str. thermophilus <extra_id_1> No culturable @@ mesophilic @@ thermophilic <extra_id_2> no entity <extra_id_3> raw milk @@ dairy @@ starter culture @@ GM17 agar @@ raw milk @@ raw milk 
+cheese from dairy @@ raw milk @@ raw milk cheese from dairy <extra_id_4> starter
+
+🔍 Sample 40 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Bra                 → 0.9649
+chy                  → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁con                 → 1.0000
+glomer               → 1.0000
+at                   → 0.9997
+um                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁P                   → 0.6430
+.                    → 1.0000
+▁aquatic             → 0.9993
+us                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁S                   → 0.4600
+.                    → 1.0000
+▁                    → 0.9998
+e                    → 0.9999
+quo                  → 1.0000
+rum                  → 1.0000
+▁@                   → 0.9986
+@                    → 1.0000
+▁Bre                 → 0.9183
+vi                   → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁                    → 1.0000
+p                    → 0.9999
+ity                  → 1.0000
+o                    → 1.0000
+camp                 → 1.0000
+a                    → 1.0000
+e                    → 1.0000
+▁@                   → 0.9995
+@                    → 1.0000
+▁A                   → 0.9992
+.                    → 1.0000
+▁                    → 1.0000
+k                    → 0.9999
+ash                  → 1.0000
+mir                  → 1.0000
+en                   → 1.0000
+s                    → 1.0000
+is                   → 1.0000
+<extra_id_1>         → 0.6395
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁Short               → 0.8883
+-                    → 1.0000
+rip                  → 1.0000
+ened                 → 1.0000
+▁cheese              → 1.0000
+▁                    → 0.6184
+rind                 → 1.0000
+s                    → 0.9999
+▁@                   → 1.0000
+@                    → 1.0000
+▁long                → 0.9004
+-                    → 1.0000
+rip                  → 1.0000
+ened                 → 1.0000
+▁cheese              → 1.0000
+s                    → 0.9998
+▁@                   → 0.6623
+@                    → 1.0000
+▁Short               → 0.9987
+-                    → 1.0000
+rip                  → 1.0000
+ened                 → 1.0000
+▁cheese              → 0.9998
+<extra_id_4>         → 0.9960
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Brachybacterium conglomeratum @@ P. aquaticus @@ S. equorum @@ Brevibacterium pityocampae @@ A. kashmirensis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> Short-ripened cheese rinds @@ long-ripened cheeses @@ Short-ripened cheese <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> B. aurantiacum @@ A. kashmirensis @@ P. aquaticus @@ S. equorum @@ H. boliviensis @@ Brevibacterium pityocampae @@ Y. halotolerans @@ Brachybacterium conglomeratum <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> long-ripened cheeses @@ Short-ripened cheese @@ Short-ripened cheese rinds <extra_id_4> no entity
+
+🔍 Sample 41 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 0.9842
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁Korean              → 0.9035
+▁soybean             → 1.0000
+▁products            → 0.9999
+▁@                   → 1.0000
+@                    → 1.0000
+▁Japanese            → 0.9996
+▁                    → 1.0000
+n                    → 1.0000
+at                   → 1.0000
+to                   → 1.0000
+<extra_id_4>         → 0.9997
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> Korean soybean products @@ Japanese natto <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> Korean soybean products @@ Japanese natto <extra_id_4> no entity
+
+🔍 Sample 42 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cheese              → 1.0000
+<extra_id_4>         → 0.9911
+▁no                  → 0.9505
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese <extra_id_4> no entity
+
+🔍 Sample 43 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Lac                 → 0.9996
+to                   → 1.0000
+c                    → 0.9999
+occ                  → 1.0000
+us                   → 1.0000
+▁lac                 → 1.0000
+t                    → 1.0000
+is                   → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁lac                 → 1.0000
+to                   → 0.9999
+s                    → 1.0000
+e                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁lac                 → 0.8539
+tate                 → 1.0000
+<extra_id_3>         → 0.7288
+▁milk                → 0.9993
+<extra_id_4>         → 0.9998
+▁milk                → 0.9902
+▁                    → 1.0000
+coagul               → 1.0000
+ation                → 1.0000
+</s>                 → 0.8187
+pred_text:    <pad> <extra_id_0> Lactococcus lactis <extra_id_1> no entity <extra_id_2> lactose @@ lactate <extra_id_3> milk <extra_id_4> milk coagulation</s>
+Ground Truth: <extra_id_0> Lactococcus lactis <extra_id_1> no entity <extra_id_2> lactic acid @@ lactose @@ lactate <extra_id_3> milk @@ curd <extra_id_4> milk coagulation
+
+🔍 Sample 44 Token Confidence:
+<extra_id_0>         → 1.0000
+▁A                   → 0.9997
+.                    → 1.0000
+▁                    → 1.0000
+f                    → 1.0000
+a                    → 1.0000
+e                    → 1.0000
+cali                 → 1.0000
+s                    → 1.0000
+<extra_id_1>         → 0.9999
+▁path                → 0.9895
+ogenic               → 0.9999
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁soil                → 0.9889
+▁@                   → 0.9999
+@                    → 1.0000
+▁Li                  → 0.8508
+va                   → 1.0000
+rot                  → 1.0000
+▁cheese              → 1.0000
+▁@                   → 0.9287
+@                    → 1.0000
+▁soil                → 0.6562
+▁@                   → 0.9856
+@                    → 1.0000
+▁water               → 0.9693
+<extra_id_4>         → 0.9983
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> A. faecalis <extra_id_1> pathogenic <extra_id_2> no entity <extra_id_3> soil @@ Livarot cheese @@ soil @@ water <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> A. faecalis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> soil @@ environments in association with humans @@ water @@ Livarot cheese <extra_id_4> non-pathogenic
+
+🔍 Sample 45 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁le                  → 0.9999
+u                    → 1.0000
+cine                 → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁                    → 0.9968
+<unk>                → 1.0000
+-                    → 1.0000
+ket                  → 0.9998
+o                    → 1.0000
+glu                  → 0.9999
+tar                  → 1.0000
+ate                  → 1.0000
+▁@                   → 0.5875
+@                    → 1.0000
+▁C                   → 0.9578
+FE                   → 0.9998
+<extra_id_3>         → 0.9988
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁                    → 0.5901
+branche              → 0.9996
+d                    → 1.0000
+-                    → 1.0000
+chain                → 1.0000
+▁trans               → 1.0000
+a                    → 1.0000
+min                  → 1.0000
+a                    → 1.0000
+s                    → 0.9999
+e                    → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> leucine @@ <unk>-ketoglutarate @@ CFE <extra_id_3> no entity <extra_id_4> branched-chain transaminase</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> leucine @@ α-ketoglutarate <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 46 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Pro                 → 0.9999
+pion                 → 1.0000
+i                    → 1.0000
+bacter               → 1.0000
+i                    → 1.0000
+a                    → 1.0000
+▁@                   → 0.9995
+@                    → 1.0000
+▁B                   → 0.9998
+12                   → 1.0000
+<extra_id_1>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 0.9981
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cabbage             → 1.0000
+▁@                   → 0.9995
+@                    → 1.0000
+▁sau                 → 0.9997
+er                   → 1.0000
+kraut                → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Propionibacteria @@ B12 <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cabbage @@ sauerkraut <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Propionibacteria <extra_id_1> no entity <extra_id_2> B12 <extra_id_3> sauerkraut @@ cabbage <extra_id_4> sauerkraut production
+
+🔍 Sample 47 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁vitamin             → 0.9998
+▁B                   → 0.9999
+12                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁fruct               → 0.9919
+o                    → 1.0000
+s                    → 1.0000
+e                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁                    → 0.9999
+g                    → 1.0000
+ly                   → 1.0000
+ce                   → 1.0000
+rol                  → 1.0000
+<extra_id_3>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁co                  → 0.9763
+fer                  → 1.0000
+ment                 → 1.0000
+ation                → 0.9999
+▁of                  → 1.0000
+▁                    → 0.9999
+g                    → 1.0000
+ly                   → 1.0000
+ce                   → 1.0000
+rol                  → 1.0000
+▁and                 → 0.9996
+▁fruct               → 1.0000
+o                    → 1.0000
+s                    → 1.0000
+e                    → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> vitamin B12 @@ fructose @@ glycerol <extra_id_3> no entity <extra_id_4> cofermentation of glycerol and fructose</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> vitamin B12 @@ fructose @@ glycerol <extra_id_3> no entity <extra_id_4> cofermentation of glycerol and fructose
+
+🔍 Sample 48 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Le                  → 0.9989
+u                    → 1.0000
+con                  → 1.0000
+ost                  → 1.0000
+o                    → 1.0000
+c                    → 1.0000
+▁me                  → 1.0000
+s                    → 1.0000
+ente                 → 1.0000
+roid                 → 1.0000
+e                    → 1.0000
+s                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Lac                 → 1.0000
+to                   → 1.0000
+c                    → 0.9998
+occ                  → 1.0000
+us                   → 1.0000
+▁lac                 → 1.0000
+t                    → 1.0000
+is                   → 1.0000
+<extra_id_1>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁past                → 0.9552
+eur                  → 1.0000
+ized                 → 1.0000
+▁Le                  → 1.0000
+er                   → 1.0000
+dam                  → 1.0000
+er                   → 1.0000
+▁cheese              → 1.0000
+<extra_id_4>         → 0.9997
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Leuconostoc mesenteroides @@ Lactococcus lactis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> pasteurized Leerdamer cheese <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Lactococcus lactis @@ Leuconostoc mesenteroides <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> pasteurized Leerdamer cheese <extra_id_4> no entity
+
+🔍 Sample 49 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Bre                 → 0.9813
+vi                   → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+p                    → 0.9968
+.                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁Ar                  → 0.9764
+thro                 → 1.0000
+bacter               → 1.0000
+▁@                   → 0.9999
+@                    → 1.0000
+▁Str                 → 0.6650
+ept                  → 1.0000
+o                    → 1.0000
+c                    → 1.0000
+occ                  → 1.0000
+us                   → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+p                    → 0.9999
+.                    → 1.0000
+▁@                   → 0.9972
+@                    → 1.0000
+▁Pro                 → 0.9993
+pion                 → 0.9999
+i                    → 1.0000
+bacter               → 1.0000
+ium                  → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+p                    → 0.9995
+.                    → 1.0000
+▁@                   → 0.9845
+@                    → 1.0000
+▁L                   → 0.9901
+b                    → 1.0000
+.                    → 1.0000
+▁bulg                → 1.0000
+a                    → 1.0000
+ric                  → 1.0000
+us                   → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+pp                   → 1.0000
+.                    → 1.0000
+<extra_id_1>         → 0.9630
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁Ma                  → 0.7074
+a                    → 1.0000
+s                    → 1.0000
+dam                  → 1.0000
+mer                  → 0.9999
+▁@                   → 0.9983
+@                    → 1.0000
+▁cheese              → 0.5542
+▁@                   → 0.9145
+@                    → 1.0000
+▁surface             → 0.9973
+-                    → 1.0000
+rip                  → 1.0000
+ened                 → 1.0000
+▁cheese              → 1.0000
+s                    → 1.0000
+▁@                   → 0.9953
+@                    → 1.0000
+▁dairy               → 0.8275
+▁products            → 0.9999
+<extra_id_4>         → 0.9962
+▁flavour             → 0.9536
+s                    → 0.9898
+▁@                   → 0.9237
+@                    → 1.0000
+▁health              → 0.9950
+-                    → 0.9924
+promoting            → 0.9999
+</s>                 → 0.7576
+pred_text:    <pad> <extra_id_0> Brevibacterium sp. @@ Arthrobacter @@ Streptococcus sp. @@ Propionibacterium sp. @@ Lb. bulgaricus spp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> Maasdammer @@ cheese @@ surface-ripened cheeses @@ dairy products <extra_id_4> flavours @@ health-promoting</s>
+Ground Truth: <extra_id_0> Bifidobacterium sp. @@ Brevibacterium @@ Propionibacterium @@ Arthrobacter @@ Lb. bulgaricus spp. @@ Corynebacterium sp. @@ Streptococcus sp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> yoghurts @@ dairy products @@ Swiss-type cheeses @@ surface-ripened cheeses @@ Maasdammer <extra_id_4> health-promoting @@ flavours
+
+🔍 Sample 50 Token Confidence:
+<extra_id_0>         → 1.0000
+▁Sco                 → 0.9999
+pul                  → 1.0000
+ari                  → 1.0000
+ops                  → 1.0000
+is                   → 1.0000
+▁                    → 1.0000
+bre                  → 1.0000
+vic                  → 1.0000
+a                    → 1.0000
+ul                   → 1.0000
+is                   → 1.0000
+<extra_id_1>         → 1.0000
+▁filament            → 0.9995
+ous                  → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Scopulariopsis brevicaulis <extra_id_1> filamentous <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Scopulariopsis brevicaulis <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 51 Token Confidence:
+<extra_id_0>         → 1.0000
+▁L                   → 1.0000
+.                    → 1.0000
+▁lac                 → 1.0000
+t                    → 1.0000
+is                   → 1.0000
+▁sub                 → 1.0000
+s                    → 1.0000
+p                    → 1.0000
+.                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> L. lactis subsp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> L. lactis subsp. <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> no entity
+
+🔍 Sample 52 Token Confidence:
+<extra_id_0>         → 1.0000
+▁                    → 1.0000
+Y                    → 1.0000
+arrow                → 1.0000
+i                    → 1.0000
+a                    → 1.0000
+▁lip                 → 1.0000
+o                    → 1.0000
+lytic                → 1.0000
+a                    → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁cheese              → 0.9999
+▁from                → 1.0000
+▁dairy               → 1.0000
+<extra_id_4>         → 0.9997
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Yarrowia lipolytica <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese from dairy <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Yarrowia lipolytica <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> cheese from dairy @@ dairy <extra_id_4> no entity
+
+🔍 Sample 53 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_3>         → 1.0000
+▁no                  → 0.7734
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁                    → 0.4854
+sanitary             → 1.0000
+▁problems            → 0.9961
+</s>                 → 0.9724
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> sanitary problems</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> no entity <extra_id_3> no entity <extra_id_4> risks for human health @@ sanitary problems
+
+🔍 Sample 54 Token Confidence:
+<extra_id_0>         → 1.0000
+▁                    → 0.7344
+Psych                → 1.0000
+r                    → 1.0000
+o                    → 1.0000
+bacter               → 1.0000
+▁                    → 1.0000
+s                    → 1.0000
+p                    → 0.9999
+.                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁P                   → 0.9552
+.                    → 1.0000
+▁                    → 1.0000
+phen                 → 1.0000
+y                    → 1.0000
+l                    → 1.0000
+pyr                  → 1.0000
+u                    → 1.0000
+vic                  → 1.0000
+a                    → 1.0000
+<extra_id_1>         → 0.9076
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁3-                  → 1.0000
+methyl               → 1.0000
+but                  → 1.0000
+an                   → 1.0000
+o                    → 0.9803
+l                    → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁3-                  → 1.0000
+methyl               → 1.0000
+but                  → 1.0000
+an                   → 1.0000
+al                   → 0.9998
+<extra_id_3>         → 0.9996
+▁                    → 0.9957
+cured                → 1.0000
+▁meat                → 1.0000
+▁@                   → 0.9480
+@                    → 1.0000
+▁model               → 0.9997
+▁cheese              → 1.0000
+<extra_id_4>         → 0.9678
+▁no                  → 0.9999
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> Psychrobacter sp. @@ P. phenylpyruvica <extra_id_1> no entity <extra_id_2> 3-methylbutanol @@ 3-methylbutanal <extra_id_3> cured meat @@ model cheese <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> Psychrobacter sp. @@ P. phenylpyruvica <extra_id_1> no entity <extra_id_2> 3-methylbutanol @@ 3-methylbutanal <extra_id_3> model cheese @@ cured meat <extra_id_4> no entity
+
+🔍 Sample 55 Token Confidence:
+<extra_id_0>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_1>         → 1.0000
+▁no                  → 0.9993
+▁entity              → 1.0000
+<extra_id_2>         → 1.0000
+▁vitamin             → 0.9999
+▁B                   → 1.0000
+12                   → 1.0000
+▁@                   → 1.0000
+@                    → 1.0000
+▁fruct               → 0.9999
+o                    → 1.0000
+s                    → 1.0000
+e                    → 1.0000
+<extra_id_3>         → 0.9999
+▁no                  → 1.0000
+▁entity              → 1.0000
+<extra_id_4>         → 1.0000
+▁no                  → 1.0000
+▁entity              → 1.0000
+</s>                 → 1.0000
+pred_text:    <pad> <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> vitamin B12 @@ fructose <extra_id_3> no entity <extra_id_4> no entity</s>
+Ground Truth: <extra_id_0> no entity <extra_id_1> no entity <extra_id_2> fructose @@ vitamin B12 <extra_id_3> no entity <extra_id_4> no entity
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Moreover, a new Vibrio species, Vibrio casei, has even been isolated from the rind of red-smear cheeses ( Bleicher et al., 2010). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Vibrio', 'Vibrio casei'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'rind of red-smear cheeses'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Vibrio casei', 'Vibrio'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'rind of red-smear cheeses', 'red-smear cheeses'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Moreover, Gram-negative bacteria identified as Alcalignes faecalis and Proteus vulgaris
+ were found on one of the farmhouse cheeses. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Proteus vulgaris', 'Alcalignes faecalis'}, '<extra_id_1>': {'Gram-negative'}, '<extra_id_2>': set(), '<extra_id_3>': {'farmhouse cheeses'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Proteus vulgaris', 'Alcalignes faecalis'}, '<extra_id_1>': {'Gram-negative'}, '<extra_id_2>': set(), '<extra_id_3>': {'farmhouse cheeses'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Lactococcus lactis ssp. cremoris and C. casei were the main species identified in the raw milk cheese rinds, whereas Psychrobacter spp., L. lactis ssp. cremoris, and C. casei were the main species identified in the pasteurized milk cheese rinds. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Lactococcus lactis ssp. cremoris', 'L. lactis ssp. cremoris', 'C. casei', 'Psychrobacter spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'pasteurized milk', 'raw milk', 'pasteurized milk cheese', 'raw milk cheese rinds', 'raw milk cheese'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'L. lactis ssp. cremoris', 'C. casei', 'Lactococcus lactis ssp. cremoris', 'Psychrobacter spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'pasteurized milk cheese rinds', 'pasteurized milk', 'raw milk', 'pasteurized milk cheese', 'raw milk cheese rinds', 'raw milk cheese'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Bands showing different intensity and identified as Staphylococcus, Micrococcus, Psychrobacter, Enterococcus and Brevibacterium
+ species were detected on the surface of cheeses. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Psychrobacter', 'Micrococcus', 'Enterococcus', 'Brevibacterium'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'surface of cheeses'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Brevibacterium', 'Psychrobacter', 'Micrococcus', 'Enterococcus', 'Staphylococcus'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'surface of cheeses', 'cheeses'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Halomonas was suggested to be an indicator for hygienic deficiencies in cheese producing facilities ( Maoz et al., 2003),
+ while it has also been suggested that these bacteria, which originally 
+originate in marine environments, are added via sea salt to cheese 
+surfaces during washing and dry salting (Ishikawa et al., 2007). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Halomonas'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese', 'cheese surfaces', 'marine environments'}, '<extra_id_4>': {'dry salting', 'indicator for hygienic deficiencies', 'washing'}}
+Ground Truth  : {'<extra_id_0>': {'Halomonas'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese producing facilities', 'marine environments', 'sea', 'sea salt', 'cheese \nsurfaces'}, '<extra_id_4>': {'dry salting', 'washing'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Five out of seven 18S rRNA OTUs (87% of all clones) were shared between young and old cheeses (Fig. 4). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'young cheeses', 'old cheeses'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'young cheeses', 'old cheeses'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: cremoris B697, a strain with a high hydroxy acid dehydrogenase activity compared to the transaminase activity (Fig. 3A, B), did not produce detectable amounts of 3-methylbutanal. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'cremoris B697'}, '<extra_id_1>': set(), '<extra_id_2>': {'hydroxy acid', '3-methylbutanal'}, '<extra_id_3>': set(), '<extra_id_4>': {'transaminase activity'}}
+Ground Truth  : {'<extra_id_0>': {'cremoris B697'}, '<extra_id_1>': set(), '<extra_id_2>': {'3-methylbutanal'}, '<extra_id_3>': set(), '<extra_id_4>': {'hydroxy acid dehydrogenase activity', 'transaminase activity'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Brine, personnel, and equipment have been suggested as possible sources for Corynebacterium ( Brennan et al., 2002). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Corynebacterium'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'Brine'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Corynebacterium'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'personnel', 'equipment', 'Brine'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Additionally, PLA production has been reported for Geotrichum candidum ( Dieuleveux et al., 1998) and some propionibacteria (Lind et al., 2007). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'propionibacteria', 'Geotrichum candidum'}, '<extra_id_1>': set(), '<extra_id_2>': {'PLA'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'propionibacteria', 'Geotrichum candidum'}, '<extra_id_1>': set(), '<extra_id_2>': {'PLA'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Results showed that P. celer was able to successfully implant 
+itself in cheese, regardless of its inoculation level. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'P. celer'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'P. celer'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Eighty-eight strains belonging to 10 species of lactic acid bacteria 
+(LAB) isolated from traditional Italian cheeses were studied for their 
+reduction activity: Enterococcus faecalis, Enterococcus faecium, Enterococcus durans, Streptococcus thermophilus, Lactococcus lactis ssp. lactis, Lactobacillus paracasei ssp. paracasei, Lactobacillus plantarum, Lactobacillus delbrueckii ssp. bulgaricus, Lactobacillus helveticus and Pediococcus pentosaceus. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Enterococcus faecium', 'Lactobacillus helveticus', 'Enterococcus faecalis', 'Enterococcus durans', 'Lactobacillus delbrueckii ssp. bulgaricus', 'Streptococcus thermophilus'}, '<extra_id_1>': set(), '<extra_id_2>': {'lactic acid'}, '<extra_id_3>': {'traditional Italian cheeses'}, '<extra_id_4>': {'reduction activity'}}
+Ground Truth  : {'<extra_id_0>': {'Enterococcus faecium', 'Lactobacillus helveticus', 'Lactococcus lactis ssp. lactis', 'Enterococcus durans', 'Enterococcus faecalis', 'Lactobacillus delbrueckii ssp. bulgaricus', 'Streptococcus thermophilus', 'Lactobacillus plantarum', 'Lactobacillus paracasei ssp. paracasei', 'Pediococcus pentosaceus'}, '<extra_id_1>': set(), '<extra_id_2>': {'lactic acid'}, '<extra_id_3>': {'traditional Italian cheeses'}, '<extra_id_4>': {'reduction activity'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: The lowest reducing lactobacilli were found to be L. delbrueckii ssp. bulgaricus and L. helveticus (Ehmin: −54 ± 20·4 mV and −54 ± 23·8 mV). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'L. helveticus', 'lactobacilli', 'L. delbrueckii ssp. bulgaricus'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': {'reducing'}}
+Ground Truth  : {'<extra_id_0>': {'L. helveticus', 'lactobacilli', 'L. delbrueckii ssp. bulgaricus'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': {'lowest reducing'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: The yeast microbiota on cheese from dairy B was primarily dominated by Geotrichum spp., however, Kluyveromyces marxianus and Debaryomyces hansenii were additionally found in minor amounts. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Debaryomyces hansenii', 'Kluyveromyces marxianus'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese from dairy'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Debaryomyces hansenii', 'Kluyveromyces marxianus', 'Geotrichum spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese from dairy'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: On the other hand, phylotypes specifically identified in the pasteurized milk cheese rind were Psychrobacter spp., Pseudoalteromonas spp., and Vibrio spp. ( Supplementary Figure S2). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Pseudoalteromonas spp.', 'Psychrobacter spp.', 'Vibrio spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'pasteurized milk', 'pasteurized milk cheese rind'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Pseudoalteromonas spp.', 'Psychrobacter spp.', 'Vibrio spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'pasteurized milk cheese', 'pasteurized milk', 'pasteurized milk cheese rind'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: These authors reported that 37 strains, including L. rhamnosus LGG and L. plantarum 299v, were effective against P. nordicum
+ and that both acetic and lactic acids among other LAB metabolism 
+products contributed to the observed inhibition. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'P. nordicum', 'L. plantarum 299v', 'L. rhamnosus LGG'}, '<extra_id_1>': set(), '<extra_id_2>': {'lactic acids', 'acetic acids'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'P. nordicum', 'L. plantarum 299v', 'L. rhamnosus LGG'}, '<extra_id_1>': set(), '<extra_id_2>': {'lactic acids', 'acetic acids'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: In fact, both groups are associated with high 
+reduction activity, and the species tend to fall on the left side of the
+ plot where the variable corresponding to Δmax was located. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': {'high reduction activity'}}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': {'high \nreduction activity'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Other phylotypes were also identified in some of the samples in the present study, such as Vagococcus spp. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Vagococcus spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Vagococcus spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: To date, among LAB, the yield of heteropolysaccharides is quite variable (Tsuda 2013); one of the largest EPS producers is L. rhamnosus RW-9595M (2775 mg/L) (Macedo et al. 2002) and Lactobacillus kefiranofaciens WT-2B (2500 mg/L) (Maeda et al. 2004a) followed by L. lactis subsp. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'L. lactis subsp.', 'Lactobacillus kefiranofaciens WT-2B', 'L. rhamnosus RW-9595M'}, '<extra_id_1>': set(), '<extra_id_2>': {'EPS'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'L. lactis subsp.', 'Lactobacillus kefiranofaciens WT-2B', 'L. rhamnosus RW-9595M'}, '<extra_id_1>': set(), '<extra_id_2>': {'EPS'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: DGGE band “d” identified as Staphylococcus equorum was present in all cheese profiles, with the most intense signal in Casera. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Staphylococcus equorum'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese', 'Casera'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Staphylococcus equorum'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese', 'Casera'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Vitamin B12 production (Table 1)
+ was indeed improved with the supplementation of glycerol since glucose 
+was utilized via a more efficient pathway to generate ATP and glucose 
+was not involved in the redox balance, but high concentrations of 
+glycerol supplementations in our work definitely inhibited the growth of
+ cells. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': {'glucose', 'Vitamin B12'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': {'glycerol', 'ATP', 'glucose', 'Vitamin B12'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: The community containing H. alvei
+ (inoculated at a low or high level) produced the largest quantity of 
+aroma compounds – between 13 and 15 mg/kg of total aroma compounds –
+ primarily corresponding to sulfur compounds [methanethiol, dimethyl 
+disulfide (DMDS) and dimethyl trisulfide (DMTS)]. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'H. alvei'}, '<extra_id_1>': set(), '<extra_id_2>': {'dimethyl trisulfide', 'methanethiol', 'dimethyl disulfide'}, '<extra_id_3>': set(), '<extra_id_4>': {'aroma compounds', 'sulfur compounds'}}
+Ground Truth  : {'<extra_id_0>': {'H. alvei'}, '<extra_id_1>': set(), '<extra_id_2>': {'dimethyl trisulfide', 'DMDS', 'DMTS', 'methanethiol', 'dimethyl \ndisulfide'}, '<extra_id_3>': set(), '<extra_id_4>': {'aroma compounds', 'sulfur compounds'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: The main species 
+identified were Lactococcus lactis ssp. cremoris, Psychrobacter spp., and Staphylococcus equorum ssp. equorum. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Lactococcus lactis ssp. cremoris', 'Staphylococcus equorum ssp. equorum', 'Psychrobacter spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Lactococcus lactis ssp. cremoris', 'Staphylococcus equorum ssp. equorum', 'Psychrobacter spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Other species were present, including B. linens, but at percentages below 2% ( Figure 3). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'B. linens'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'B. linens'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: In most anaerobic strains belonging to the genera Lactococcus, Lactobacillus, Streptococcus and Leuconostoc, specific hydroxy acid dehydrogenase activity was found to be 5- to 10-fold higher than the transaminase activity. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Lactococcus', 'Lactobacillus', 'Streptococcus', 'Leuconostoc'}, '<extra_id_1>': {'anaerobic'}, '<extra_id_2>': {'hydroxy acid'}, '<extra_id_3>': set(), '<extra_id_4>': {'transaminase activity'}}
+Ground Truth  : {'<extra_id_0>': {'Lactococcus', 'Lactobacillus', 'Streptococcus', 'Leuconostoc'}, '<extra_id_1>': {'anaerobic'}, '<extra_id_2>': {'hydroxy acid'}, '<extra_id_3>': set(), '<extra_id_4>': {'hydroxy acid dehydrogenase activity', 'transaminase activity'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Vagococcus fluvialis, previously isolated from animal and human sources ( Collins et al., 1989; Pot et al., 1994; Teixeira et al., 1997) and even from cheese (Callon et al., 2014), was also identified here. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Vagococcus fluvialis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese', 'human', 'animal sources'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Vagococcus fluvialis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese', 'human', 'animal'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Corynebacterium ammoniagenes B1506 and Lactococcus lactis
+ B1157 were able to produce considerable amounts of 3-methylbutanal and 
+3-methylbutanol, while all other strains tested, including those closely
+ related to the two above, lacked this ability. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Corynebacterium ammoniagenes B1506', 'Lactococcus lactis B1157'}, '<extra_id_1>': set(), '<extra_id_2>': {'3-methylbutanol', '3-methylbutanal'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Corynebacterium ammoniagenes B1506', 'Lactococcus lactis\n B1157'}, '<extra_id_1>': set(), '<extra_id_2>': {'3-methylbutanol', '3-methylbutanal'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: OTU 8 shared high similarity with Alkalibacterium gilvum
+ — a halophilic and alkaliphilic lactic acid bacterium recently 
+described and isolated from European soft and semi-hard cheeses ( Ishikawa et al., 2013). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Alkalibacterium gilvum'}, '<extra_id_1>': {'alkaliphilic', 'halophilic'}, '<extra_id_2>': {'lactic acid'}, '<extra_id_3>': {'European soft cheeses', 'semi-hard cheeses'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Alkalibacterium gilvum'}, '<extra_id_1>': {'alkaliphilic', 'halophilic'}, '<extra_id_2>': {'lactic acid'}, '<extra_id_3>': {'European soft and semi-hard cheeses'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: These data confirm that strains of Corynebacterium spp. are candidates as ripening cultures for production of surface-ripened cheeses. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Corynebacterium spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'surface-ripened cheeses', 'ripening cultures'}, '<extra_id_4>': {'ripening'}}
+Ground Truth  : {'<extra_id_0>': {'Corynebacterium spp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'surface-ripened cheeses', 'ripening cultures'}, '<extra_id_4>': {'ripening'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: For
+ studying the microbiota of four Danish surface-ripened cheeses produced
+ at three farmhouses and one industrial dairy, both a culture-dependent 
+and culture-independent approach were used. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'Danish surface-ripened cheeses', 'farmhouses', 'industrial dairy'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'Danish surface-ripened cheeses', 'farmhouses', 'industrial dairy'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Similarly to other studies ( Dolci et al., 2009, Feurer et al., 2004b, Gori et al., 2013, Maoz et al., 2003, Mounier et al., 2005 and Rea et al., 2007), we found a high diversity and abundance of coryneforms (13 OTUs, 149 out of 408 clones) in VB cheese rinds. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': {'coryneforms'}, '<extra_id_2>': set(), '<extra_id_3>': {'cheese rinds', 'VB cheese'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'VB cheese rinds', 'VB cheese'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: However, 96.3 and 97.9%
+ of the total microbiota of the raw milk and pasteurized cheese rind, 
+respectively, were composed of species present in both types of cheese, 
+such as Corynebacterium casei, Psychrobacter spp., Lactococcus lactis ssp. cremoris, Staphylococcus equorum, Vagococcus salmoninarum, and other species present at levels below 5%. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Corynebacterium casei', 'Psychrobacter spp.', 'Vagococcus salmoninarum', 'Lactococcus lactis ssp. cremoris', 'Staphylococcus equorum'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese rind', 'pasteurized cheese', 'raw milk'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Corynebacterium casei', 'Psychrobacter spp.', 'Vagococcus salmoninarum', 'Lactococcus lactis ssp. cremoris', 'Staphylococcus equorum'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese', 'raw milk cheese rind', 'pasteurized cheese rind'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: We found Advenella kashmirensis in VB cheese rinds (OTU 5). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Advenella kashmirensis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese', 'VB cheese rinds'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Advenella kashmirensis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'VB cheese rinds', 'VB cheese'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: The cheese from the industrial dairy was almost exclusively dominated by Lb. paracasei. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Lb. paracasei'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese from the industrial dairy'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Lb. paracasei'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'industrial dairy', 'cheese from the industrial dairy'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Delbes-Paus et al. (2013) described a strain of H. alvei that can inhibit STEC O26:H11 in an uncooked pressed model cheese. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'H. alvei', 'STEC O26:H11'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'uncooked pressed model cheese'}, '<extra_id_4>': {'STEC'}}
+Ground Truth  : {'<extra_id_0>': {'O26:H11', 'H.\xa0alvei'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'uncooked pressed model cheese'}, '<extra_id_4>': {'STEC', 'uncooked pressed model'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: This is the first time that these two salt-tolerant bacterial
+ species are found in dairy products; their identification was enabled 
+by molecular methods. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': {'salt-tolerant'}, '<extra_id_2>': set(), '<extra_id_3>': {'dairy products'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': {'salt-tolerant'}, '<extra_id_2>': set(), '<extra_id_3>': {'dairy products'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: It was suggested that M. psychrotolerans
+ is transferred to the cheeses from the marine environments via sea 
+salt. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'M. psychrotolerans'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheeses from the marine environments', 'marine environments', 'sea salt'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'M. psychrotolerans'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'marine environments', 'sea \nsalt', 'cheeses'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: TABLE 3.Identification by cloning sequencing of V3 fragments excised from TTGE and DGGE patterns of total microbial community cheeses Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheeses'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheeses'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Facility C had a high level of A. kashmirensis especially in the short-ripened cheeses of ripening cellar C2. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'A. kashmirensis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'ripening cellar', 'short-ripened cheeses', 'ripening cellar C2'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'A. kashmirensis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'ripening cellar C2', 'short-ripened cheeses of ripening cellar C2', 'Facility C'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Most significantly, the DGGE analysis 
+found that Streptococcus thermophilus is present in raw milk 
+cheese from dairy A, even though this thermophilic lactic acid bacterium
+ was not included in the mesophilic LAB starter culture used for 
+production of the raw milk cheese from dairy A. No culturable Str. thermophilus isolates was isolated from GM17 agar incubated at 37 °C (data not shown). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Streptococcus thermophilus'}, '<extra_id_1>': {'thermophilic'}, '<extra_id_2>': {'lactic acid'}, '<extra_id_3>': {'dairy', 'starter culture', 'raw milk cheese from dairy', 'raw milk'}, '<extra_id_4>': {'starter'}}
+Ground Truth  : {'<extra_id_0>': {'Str. thermophilus', 'Streptococcus thermophilus'}, '<extra_id_1>': {'thermophilic', 'No culturable', 'mesophilic'}, '<extra_id_2>': set(), '<extra_id_3>': {'starter culture', 'dairy', 'raw milk', 'raw milk cheese from dairy', 'raw milk \ncheese from dairy', 'GM17 agar'}, '<extra_id_4>': {'starter'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Short-ripened cheese rinds harbored a significantly increased (p < 0.05) ratio of OTU 1, OTU 2, OTU 5 and OTU 9 (H. boliviensis, B. aurantiacum, A. kashmirensis, P. aquaticus; 5.7, 2.1, 2.9 and 10.1 fold changes, respectively) and a significantly decreased ratio of OTU 3, OTU 4, OTU 7 and OTU 11 (S. equorum, Brevibacterium pityocampae, Brachybacterium conglomeratum, Y. halotolerans; 3.6, 5.8, 3.7 and 10.4 fold changes, respectively) compared to long-ripened cheeses ( Fig. 4, Supplementary Table S5). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Brevibacterium pityocampae', 'Brachybacterium conglomeratum', 'S. equorum', 'A. kashmirensis', 'P. aquaticus'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'Short-ripened cheese', 'long-ripened cheeses', 'Short-ripened cheese rinds'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'B. aurantiacum', 'H. boliviensis', 'Brevibacterium pityocampae', 'Brachybacterium conglomeratum', 'S. equorum', 'A. kashmirensis', 'P. aquaticus', 'Y. halotolerans'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'Short-ripened cheese rinds', 'Short-ripened cheese', 'long-ripened cheeses'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Watanabe et al. (2014)
+ reported that Japanese natto and Korean soybean products contain 0.1 to
+ 0.9 μg per 100 g. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'Korean soybean products', 'Japanese natto'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'Korean soybean products', 'Japanese natto'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Intensive sampling of three batches of cheese over a
+ 63-day aging period demonstrates that patterns of succession are highly
+ reproducible (Figures 7A and 7B). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: During milk coagulation, lactic acid bacteria such as Lactococcus lactis acidify curd by metabolizing the lactose into lactate. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Lactococcus lactis'}, '<extra_id_1>': set(), '<extra_id_2>': {'lactose', 'lactate'}, '<extra_id_3>': {'milk'}, '<extra_id_4>': {'milk coagulation'}}
+Ground Truth  : {'<extra_id_0>': {'Lactococcus lactis'}, '<extra_id_1>': set(), '<extra_id_2>': {'lactose', 'lactate', 'lactic acid'}, '<extra_id_3>': {'milk', 'curd'}, '<extra_id_4>': {'milk coagulation'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: A. faecalis, which is found in soil, water, and environments in association with humans and generally considered non-pathogenic [19], has also previously been found on Livarot cheese [30]. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'A. faecalis'}, '<extra_id_1>': {'pathogenic'}, '<extra_id_2>': set(), '<extra_id_3>': {'water', 'soil', 'Livarot cheese'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'A. faecalis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'environments in association with humans', 'soil', 'water', 'Livarot cheese'}, '<extra_id_4>': {'non-pathogenic'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: First, the activity of branched-chain transaminase was measured by 
+incubating CFE with leucine and an excess of the co-substrate, 
+α-ketoglutarate. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': {'leucine', 'CFE', '<unk>-ketoglutarate'}, '<extra_id_3>': set(), '<extra_id_4>': {'branched-chain transaminase'}}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': {'leucine', 'α-ketoglutarate'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Watanabe et al. (2014) reported that the addition of Propionibacteria to cabbage during sauerkraut production resulted in higher concentrations of B12 (7.2 μg/100 mL). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'B12', 'Propionibacteria'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'sauerkraut', 'cabbage'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Propionibacteria'}, '<extra_id_1>': set(), '<extra_id_2>': {'B12'}, '<extra_id_3>': {'sauerkraut', 'cabbage'}, '<extra_id_4>': {'sauerkraut production'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: In this work cofermentation of glycerol and fructose was also confirmed to have a positive effect on the production of vitamin B12 (Table 1). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': {'fructose', 'glycerol', 'vitamin B12'}, '<extra_id_3>': set(), '<extra_id_4>': {'cofermentation of glycerol and fructose'}}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': {'fructose', 'glycerol', 'vitamin B12'}, '<extra_id_3>': set(), '<extra_id_4>': {'cofermentation of glycerol and fructose'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: In pasteurized Leerdamer cheese (Fig. ​(Fig.3A,3A, lane 1), the TTGE analysis revealed the presence of only two species: Leuconostoc mesenteroides (band a), confirmed using specific primer tests (Table ​(Table4),4), and Lactococcus lactis (band b). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Leuconostoc mesenteroides', 'Lactococcus lactis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'pasteurized Leerdamer cheese'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Leuconostoc mesenteroides', 'Lactococcus lactis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'pasteurized Leerdamer cheese'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Other examples of microorganisms involved in the formation of very diverse flavours in dairy products are Propionibacterium sp. in Maasdammer and Swiss-type cheeses (Sarkar and Misra 1995), Streptococcus sp., Lb. bulgaricus spp. and Bifidobacterium sp. in (health-promoting) yoghurts (Nosova et al. 2000; Zourari et al. 1992; Hugenholtz et al. 2000), and Arthrobacter, Brevibacterium and Corynebacterium sp. in surface-ripened cheeses (Bockelmann and Hoppe Seyler 2001). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Streptococcus sp.', 'Propionibacterium sp.', 'Lb. bulgaricus spp.', 'Brevibacterium sp.', 'Arthrobacter'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese', 'surface-ripened cheeses', 'Maasdammer', 'dairy products'}, '<extra_id_4>': {'health-promoting', 'flavours'}}
+Ground Truth  : {'<extra_id_0>': {'Streptococcus sp.', 'Brevibacterium', 'Bifidobacterium sp.', 'Corynebacterium sp.', 'Lb. bulgaricus spp.', 'Arthrobacter', 'Propionibacterium'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'yoghurts', 'surface-ripened cheeses', 'Swiss-type cheeses', 'Maasdammer', 'dairy products'}, '<extra_id_4>': {'health-promoting', 'flavours'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: The most abundant 18S rRNA OTU had highest similarity to the filamentous fungus Scopulariopsis brevicaulis. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Scopulariopsis brevicaulis'}, '<extra_id_1>': {'filamentous'}, '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Scopulariopsis brevicaulis'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Interestingly, L. lactis subsp. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'L. lactis subsp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'L. lactis subsp.'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: On the cheese from dairy A, Yarrowia lipolytica was the dominating yeast species. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'Yarrowia lipolytica'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'cheese from dairy'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'Yarrowia lipolytica'}, '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': {'dairy', 'cheese from dairy'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: However, this strain has also been shown to exhibit some 
+potential risks for human health (Coton et al., 2012) even if no sanitary problems have been linked to the presence of this species as of this time. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': {'sanitary problems'}}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': set(), '<extra_id_3>': set(), '<extra_id_4>': {'sanitary problems', 'risks for human health'}}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: The production of 3-methylbutanal and 3-methylbutanol has already been reported in P. phenylpyruvica in a cured meat model system ( Moller et al., 1998), and in Psychrobacter sp. in a model cheese ( Deetae et al., 2009a). Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': {'P. phenylpyruvica', 'Psychrobacter sp.'}, '<extra_id_1>': set(), '<extra_id_2>': {'3-methylbutanol', '3-methylbutanal'}, '<extra_id_3>': {'cured meat', 'model cheese'}, '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': {'P. phenylpyruvica', 'Psychrobacter sp.'}, '<extra_id_1>': set(), '<extra_id_2>': {'3-methylbutanol', '3-methylbutanal'}, '<extra_id_3>': {'cured meat', 'model cheese'}, '<extra_id_4>': set()}
+Input         : Extract taxon, use, phenotype, molecule and habitat entities from the given context. Context: Meanwhile, high content 
+of fructose supplementation reduced the production of vitamin B12 and suppressed expression of cobT in bacteria. Recognition Results: Taxon: <extra_id_0> Phenotype: <extra_id_1> Molecule: <extra_id_2> Habitat: <extra_id_3> Use: <extra_id_4>
+Predicted     : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': {'fructose', 'vitamin B12'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+Ground Truth  : {'<extra_id_0>': set(), '<extra_id_1>': set(), '<extra_id_2>': {'fructose', 'vitamin B12'}, '<extra_id_3>': set(), '<extra_id_4>': set()}
+
+Final Evaluation :
+TP: 183 | FP: 33 | FN: 64
+<unk> in FP: 1 | <unk> in FN: 0
+Precision: 0.8472
+Recall:    0.7409
+F1 Score:  0.7905
